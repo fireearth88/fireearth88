@@ -29,6 +29,6 @@ Hey there! I'm fireearth88, and this special repository is a little window into 
 - I've run eight full marathons across different cities around the world! My personal best is 4.30hrs. When I'm not crunching data or running, I enjoy capturing life's moments through photography, exploring the balance of yoga, and planning my next travel adventure to enrich my perspectives.
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fireearth88)](https://github.com/anuraghazra/github-readme-stats)
 
 
